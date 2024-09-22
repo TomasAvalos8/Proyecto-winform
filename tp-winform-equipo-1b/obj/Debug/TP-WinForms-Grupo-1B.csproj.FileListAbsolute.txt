@@ -1,0 +1,16 @@
+C:\Users\tomas\OneDrive\Escritorio\Proyectos\TP Winform\tp-winform-equipo-1b\bin\Debug\TP-WinForms-Grupo-1B.exe.config
+C:\Users\tomas\OneDrive\Escritorio\Proyectos\TP Winform\tp-winform-equipo-1b\bin\Debug\TP-WinForms-Grupo-1B.exe
+C:\Users\tomas\OneDrive\Escritorio\Proyectos\TP Winform\tp-winform-equipo-1b\bin\Debug\TP-WinForms-Grupo-1B.pdb
+C:\Users\tomas\OneDrive\Escritorio\Proyectos\TP Winform\tp-winform-equipo-1b\obj\Debug\TP-WinForms-Grupo-1B.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Escritorio\Proyectos\TP Winform\tp-winform-equipo-1b\obj\Debug\TP_WinForms_Grupo_1B.AgregarArticulo.resources
+C:\Users\tomas\OneDrive\Escritorio\Proyectos\TP Winform\tp-winform-equipo-1b\obj\Debug\TP_WinForms_Grupo_1B.BuscarArticulo.resources
+C:\Users\tomas\OneDrive\Escritorio\Proyectos\TP Winform\tp-winform-equipo-1b\obj\Debug\TP_WinForms_Grupo_1B.MenuPrincipal.resources
+C:\Users\tomas\OneDrive\Escritorio\Proyectos\TP Winform\tp-winform-equipo-1b\obj\Debug\TP_WinForms_Grupo_1B.VentanaDetalle.resources
+C:\Users\tomas\OneDrive\Escritorio\Proyectos\TP Winform\tp-winform-equipo-1b\obj\Debug\TP_WinForms_Grupo_1B.VentanaEliminar.resources
+C:\Users\tomas\OneDrive\Escritorio\Proyectos\TP Winform\tp-winform-equipo-1b\obj\Debug\TP_WinForms_Grupo_1B.VentanaListarAticulos.resources
+C:\Users\tomas\OneDrive\Escritorio\Proyectos\TP Winform\tp-winform-equipo-1b\obj\Debug\TP_WinForms_Grupo_1B.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Escritorio\Proyectos\TP Winform\tp-winform-equipo-1b\obj\Debug\TP_WinForms_Grupo_1B.VentanaModificar.resources
+C:\Users\tomas\OneDrive\Escritorio\Proyectos\TP Winform\tp-winform-equipo-1b\obj\Debug\TP-WinForms-Grupo-1B.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Escritorio\Proyectos\TP Winform\tp-winform-equipo-1b\obj\Debug\TP-WinForms-Grupo-1B.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Escritorio\Proyectos\TP Winform\tp-winform-equipo-1b\obj\Debug\TP-WinForms-Grupo-1B.exe
+C:\Users\tomas\OneDrive\Escritorio\Proyectos\TP Winform\tp-winform-equipo-1b\obj\Debug\TP-WinForms-Grupo-1B.pdb
